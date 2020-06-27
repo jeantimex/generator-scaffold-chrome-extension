@@ -1,2 +1,3 @@
-# generator-scaffold-chrome-extension
+# Yeoman Generator - Scaffold Chrome Extension
+
 Scaffold Chrome extension
